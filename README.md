@@ -42,5 +42,5 @@ Welcome to my coding portfolio! This collection of projects I’ve built as part
 I’m a passionate front-end developer currently learning through SheCodes. I have a background in communications and a growing interest in combining tech with psychology and AI ethics. This portfolio showcases my work as I continue to build my skills in web development.
 
 Feel free to reach out!  
-**Email**: [Myanasmith2@gmail.com]  
-**GitHub**: [myanasmith]
+**Email**: Myanasmith2@gmail.com  
+**GitHub**: myanasmith
